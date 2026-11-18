@@ -1,0 +1,21 @@
+data,categoria,produto,quantidade,preco_unitario,regiao,avaliacao
+2026-01-05,Eletronicos,Notebook Pro,3,4500.00,Sudeste,4.8
+2026-01-08,Perifericos,Mouse Sem Fio,15,120.00,Sul,4.5
+2026-01-12,Monitores,Monitor 27 4K,5,1850.00,Nordeste,4.7
+2026-01-15,Eletronicos,Smartphone X,8,3200.00,Sudeste,4.6
+2026-01-20,Acessorios,Cabo HDMI 2.1,25,65.00,Centro-Oeste,4.2
+2026-01-25,Perifericos,Teclado Mecanico,10,350.00,Norte,4.9
+2026-02-02,Eletronicos,Tablet Ultra,4,2400.00,Sul,4.4
+2026-02-07,Monitores,Monitor Ultrawide,2,2900.00,Sudeste,4.8
+2026-02-11,Perifericos,Headset Gamer,12,280.00,Nordeste,4.3
+2026-02-18,Acessorios,Suporte Notebook,18,110.00,Sul,4.6
+2026-02-22,Eletronicos,Notebook Air,6,3900.00,Centro-Oeste,4.7
+2026-02-27,Perifericos,Webcam Full HD,9,220.00,Sudeste,4.1
+2026-03-04,Monitores,Monitor 24 IPS,7,980.00,Norte,4.5
+2026-03-10,Eletronicos,Smartphone Y,11,2100.00,Sul,4.4
+2026-03-14,Acessorios,Hub USB-C,14,190.00,Sudeste,4.6
+2026-03-19,Perifericos,Mousepad XL,20,85.00,Nordeste,4.8
+2026-03-23,Eletronicos,Console NextGen,3,4200.00,Sudeste,4.9
+2026-03-29,Monitores,Monitor Curvo 32,4,2600.00,Centro-Oeste,4.7
+2026-04-03,Acessorios,Mochila Tech,8,240.00,Sul,4.5
+2026-04-09,Perifericos,Microfone Condensador,6,410.00,Sudeste,4.8
